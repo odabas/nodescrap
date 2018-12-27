@@ -1,0 +1,20 @@
+{
+  "name": "nodescrap",
+  "version": "1.0.0",
+  "description": "Bu uygulama örneği site kazıma işlemlerini içermektedir.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "scrappig",
+    "kazıma",
+    "nodejs"
+  ],
+  "author": "onurodabas",
+  "license": "ISC"
+  "dependencies": {
+	"axios": "^0.18.0",
+	"jsdom": "^13.1.0"	
+	
+}
